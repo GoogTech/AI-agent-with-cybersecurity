@@ -2,7 +2,7 @@
 - [ ] AutoPenBench: Benchmarking Generative Agents for Penetration Testing : https://arxiv.org/abs/2410.03225v2
 - [x] Teams of LLM Agents can Exploit Zero-Day Vulnerabilities : https://arxiv.org/html/2406.01637v1
 - [ ] VulnBot: Autonomous Penetration Testing for A Multi-Agent Collaborative Framework : https://arxiv.org/abs/2501.13411v1
-- [ ] BreachSeek: A Multi-Agent Automated Penetration Tester : https://arxiv.org/abs/2409.03789v1
+- [x] BreachSeek: A Multi-Agent Automated Penetration Tester : https://arxiv.org/abs/2409.03789v1
 - [ ] PentestGPT: Evaluating and Harnessing Large Language Models for Automated Penetration Testing : [link...](https://www.usenix.org/conference/usenixsecurity24/presentation/deng)
 - [ ] Why Are Web AI Agents More Vulnerable Than Standalone LLMs? A Security Analysis : https://arxiv.org/abs/2502.20383v1
 - [ ] Watch Out for Your Agents! Investigating Backdoor Threats to LLM-Based Agents : https://arxiv.org/abs/2402.11208
