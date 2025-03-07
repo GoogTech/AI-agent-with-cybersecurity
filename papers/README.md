@@ -1,5 +1,5 @@
 - [ ] AutoPT: How Far Are We from the End2End Automated Web Penetration Testing? : https://arxiv.org/abs/2411.01236
-- [ ] AutoPenBench: Benchmarking Generative Agents for Penetration Testing : https://arxiv.org/abs/2410.03225v2
+- [x] AutoPenBench: Benchmarking Generative Agents for Penetration Testing : https://arxiv.org/abs/2410.03225v2
 - [x] Teams of LLM Agents can Exploit Zero-Day Vulnerabilities : https://arxiv.org/html/2406.01637v1
 - [ ] VulnBot: Autonomous Penetration Testing for A Multi-Agent Collaborative Framework : https://arxiv.org/abs/2501.13411v1
 - [x] BreachSeek: A Multi-Agent Automated Penetration Tester : https://arxiv.org/abs/2409.03789v1
